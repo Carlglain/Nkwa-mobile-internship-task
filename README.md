@@ -3,8 +3,12 @@
 This is a mobile staking dashboard built with **React Native** for the Nkwa Internship Program. It allows users to view token balances, select a token, and interact with staking features.
 
 ---
-## Deployed expo link
-👉 [View Live Site](https://nkwa-web-dashbaord-vpk9.vercel.app/)
+## 🚀 Live Demo
+
+Open the app in [Expo Go](https://expo.dev/accounts/carlstorm/projects/nkwa-mobile/updates/46f87eed-f705-4080-9a43-e759a410116a) or scan the QR code below:
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://expo.dev/accounts/carlstorm/projects/nkwa-mobile/updates/46f87eed-f705-4080-9a43-e759a410116a&size=150x150)
+
 ## 📱 Screens
 
 - **Dashboard**: Displays a list of tokens with balances and market values.
