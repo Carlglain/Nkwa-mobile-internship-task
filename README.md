@@ -43,7 +43,7 @@ npx expo start
 Use the QR code to open it in the Expo Go app (Android/iOS) or run it in a simulator.
 
 📂 Folder Structure  
-.
+.  
 ├── assets/               # Icons, images, fonts  
 ├── components/           # Reusable UI components  
 ├── screens/              # App screens (Dashboard, Stake, etc.)    
