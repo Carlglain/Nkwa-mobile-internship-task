@@ -27,7 +27,7 @@ This is a mobile staking dashboard built with **React Native** for the Nkwa Inte
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nkwa-mobile-internship-application.git
+git clone https://github.com/Carlglain/Nkwa-mobile-internship-task.git
 cd nkwa-mobile-internship-task
 ```
 ### 2. Install dependencies
