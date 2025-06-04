@@ -65,7 +65,7 @@ Built using Expo SDK 49+
 
 Classic expo publish is deprecated; use eas update for OTA deployment
 
-Follows mobile UI mockups provided in the internship assessment
+Follows mobile UI mockups provided in the internship assessment  
 📸 Screenshots
 
 ![WhatsApp Image 2025-06-04 at 14 53 07_9e2840aa](https://github.com/user-attachments/assets/198db416-cddc-4ddc-886d-1963f31701bc)
